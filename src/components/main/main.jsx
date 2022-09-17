@@ -136,7 +136,7 @@ class Main extends React.Component{
                         <div style={{display:"flex", flexDirection:"row", alignItems:"center" }}>
                         </div>
                         <LearnMore answer={<p>The coupons themselves are <a href='https://en.wikipedia.org/wiki/Non-fungible_token'>NFTs</a>. Instead of users inputting a series of words/characters, they will instead have an NFT they can use with a single click on checkout. 
-                        Users will be able to trade it between them or on terciary NFT markets such as <a href="https://opensea.io/">OpenSea</a>. From this, we can include that you win money from every ticket exchange that occurs. They sell their coupon, you get part of the money. 
+                        Users will be able to trade it between them or on terciary NFT markets such as <a href="src/components/main/main">OpenSea</a>. From this, we can include that you win money from every ticket exchange that occurs. They sell their coupon, you get part of the money.
                          On top of this, it stops ticket fraud. A user who was originally intending to pay full price for your product,
                           can't simply search for a discount code online or use an extension to cut 30% off your revenue. Lastly, you will get detailed data of who purchases and owns the discount tickets and will be able to control the exact amount on the market.</p>}/>
 

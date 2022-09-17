@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab0c31c-e98b-411d-b832-680e651d7a7d" name="Changes" comment="initial" />
+    <list default="true" id="2ab0c31c-e98b-411d-b832-680e651d7a7d" name="Changes" comment="initial">
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/fonts/Montserrat-Light-Alt1.otf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/Montserrat-Light-Alt1.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/576335.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/576335.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/Fryderyk-Sitnik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/Fryderyk-Sitnik.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/cursor.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/cursor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/erikdz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/erikdz.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/eth.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/eth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/fryderyk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/fryderyk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/levente.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/levente.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/nft.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/nft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Images/vr-glasses.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/vr-glasses.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/colorpalette" beforeDir="false" afterPath="$PROJECT_DIR$/src/colorpalette" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/aboutus/aboutus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/aboutus/aboutus.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/aboutus/personcard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/aboutus/personcard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/main/herobox.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/herobox.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/main/learnmore.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/learnmore.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/main/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/main/particulas.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/particulas.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/misc/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/misc/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/misc/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/misc/navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663419362798</updated>
-      <workItem from="1663419363890" duration="6846000" />
+      <workItem from="1663419363890" duration="7362000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1663426347463</created>
@@ -82,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663428230930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial">
+      <created>1663428285294</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663428285294</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

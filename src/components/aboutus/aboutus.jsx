@@ -24,7 +24,7 @@ function AboutUs(){
                     <PersonCard image={ErikDz}
                     name={"Erik Dziekonski Bautista"}
                     title={"Co-Founder - CTO"}
-                    description={<p>Student of Mathematics and Computer Science at École Polytechnique de Paris. Previous founder of <a style={{color:"white"}} href="https://www.youtube.com/watch?v=x52Z6FzyzOA">EasySend</a> and creator of <a style={{color:"white"}} href="https://papersbytopic.com/">PapersByTopic</a>. Backend manager of MEDICMAT. Discovered the CVE-2018-20448 exploit. </p>}
+                    description={<p>Student of Mathematics and Computer Science at École Polytechnique de Paris. Previous founder of <a style={{color:"white"}} href="https://www.youtube.com/watch?v=x52Z6FzyzOA">EasySend</a> and creator of <a style={{color:"white"}} href="src/components/aboutus/aboutus">PapersByTopic</a>. Backend manager of MEDICMAT. Discovered the CVE-2018-20448 exploit. </p>}
                     personalsite={"erikdziekonski.com"}
                      />
                     <PersonCard image={Fryderyk}
