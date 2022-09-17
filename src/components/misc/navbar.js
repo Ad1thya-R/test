@@ -9,7 +9,7 @@ function Header(){
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav style={{marginLeft:"auto",marginRight:"0px !important"}}>
-                    <Nav.Link href="mailto:contact@leryk.com">Contact</Nav.Link>
+                    <Nav.Link href="mailto:getzeeno@gmail.com">Contact</Nav.Link>
                     <Nav.Link href="/aboutus">About Us</Nav.Link>
                 </Nav>
                 </Navbar.Collapse>
